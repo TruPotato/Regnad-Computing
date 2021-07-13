@@ -1,4 +1,35 @@
+$regnad-color: #2e3e0b;
+
 * {
     margin: 0rem;
     padding: 0rem;
+}
+
+body {
+    background-color: $regnad-color;
+}
+
+.regnad-header {
+    display: block;
+    margin: {
+        left: auto;
+        right: auto;
+        top: 1rem;
+    }
+    max-width: 52rem;
+    text-align: center;
+    align-items: center;
+    #header {
+        display: inline-block;
+        font-family: 'Times New Roman', Times, serif;
+        color: white;
+        font-size: 350%;
+        margin: {
+            left: 1rem;
+        }
+    }
+    img {
+        max-width: 6rem;
+        display: inline-block;
+    }
 }
