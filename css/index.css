@@ -4,7 +4,7 @@
 }
 
 body {
-  background-color: #2e3e0b;
+  background-color: #008057;
 }
 
 .regnad-header {
@@ -12,23 +12,23 @@ body {
   margin-left: auto;
   margin-right: auto;
   margin-top: 1rem;
-  max-width: 52rem;
   text-align: center;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
 }
 
 .regnad-header #header {
   display: inline-block;
   font-family: 'Times New Roman', Times, serif;
   color: white;
-  font-size: 350%;
+  font-size: 600%;
   margin-left: 1rem;
+  vertical-align: middle;
+  font-weight: lighter;
+  text-shadow: 0.2rem 0.2rem 0rem black;
 }
 
 .regnad-header img {
-  max-width: 6rem;
+  width: 8rem;
   display: inline-block;
+  vertical-align: middle;
 }
 /*# sourceMappingURL=index.css.map */
