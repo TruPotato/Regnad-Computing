@@ -7,7 +7,7 @@ body {
   background-color: #008057;
 }
 
-.regnad-header {
+.regnad-header, #newsletter {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -15,7 +15,7 @@ body {
   text-align: center;
 }
 
-.regnad-header #header {
+.regnad-header #header, #newsletter #header {
   display: inline-block;
   font-family: 'Times New Roman', Times, serif;
   color: white;
@@ -26,7 +26,7 @@ body {
   text-shadow: 0.2rem 0.2rem 0rem black;
 }
 
-.regnad-header img {
+.regnad-header img, #newsletter img {
   width: 8rem;
   display: inline-block;
   vertical-align: middle;
