@@ -31,4 +31,88 @@ body {
   display: inline-block;
   vertical-align: middle;
 }
+
+#newsletter {
+  background-color: white;
+  margin-top: 0rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+#newsletter #header {
+  color: black;
+  text-shadow: 0.2rem 0.2rem 0rem rgba(0, 0, 0, 0.2);
+}
+
+#update {
+  display: inline-block;
+  font-family: 'Times New Roman', Times, serif;
+  text-shadow: 0.1rem 0.1rem 0rem rgba(0, 0, 0, 0.2);
+}
+
+.video {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+#ai-advancements {
+  -webkit-box-shadow: 0.4rem 0.4rem 0rem rgba(0, 0, 0, 0.2);
+          box-shadow: 0.4rem 0.4rem 0rem rgba(0, 0, 0, 0.2);
+}
+
+#advancements {
+  color: white;
+  text-shadow: 0.1rem 0.1rem 0rem black;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: lighter;
+}
+
+.body1 {
+  display: block;
+  margin-top: 1rem;
+}
+
+#para1, #para2 {
+  display: inline-block;
+  color: white;
+  max-width: 22rem;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 150%;
+  line-height: 2rem;
+}
+
+#para1 {
+  float: left;
+  margin-left: 25rem;
+}
+
+#para2 {
+  float: left;
+  margin-top: 0rem;
+  margin-left: 5rem;
+}
+
+#para3 {
+  float: right;
+  margin-right: 25rem;
+  color: black;
+  background-color: white;
+  padding: 0.5rem;
+  text-align: center;
+  max-width: 12rem;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 125%;
+  line-height: 2rem;
+}
+
+.month-advancements {
+  float: left;
+  margin-left: 25rem;
+  margin-top: 1rem;
+  background-color: white;
+  font-family: 'Times New Roman', Times, serif;
+  padding: 0.5rem;
+}
 /*# sourceMappingURL=index.css.map */
