@@ -115,4 +115,10 @@ body {
   font-family: 'Times New Roman', Times, serif;
   padding: 0.5rem;
 }
+
+#disclaimer {
+  color: #0d3f2f;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: lighter;
+}
 /*# sourceMappingURL=index.css.map */
